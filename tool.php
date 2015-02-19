@@ -112,7 +112,7 @@ img.onload = function ()
 {
     draw(true,true);
 }
-img.src = "images/image"+GetUrlValue('img')+".png";
+img.src = "images/img"+GetUrlValue('img')+".png";
 
 
 
